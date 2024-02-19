@@ -8,4 +8,4 @@ Teatching and Learing
 
 <img src="https://tahmed30.github.io/JavaUtilityLogging/images/JavaLogging.png" width="500">
 
-YouTube Channel name YouTube.com/@teachertariku
+YouTube Channel name [YouTube.com/@teachertariku](https://www.youtube.com/@teachertariku) [https://www.youtube.com/@teachertariku]
